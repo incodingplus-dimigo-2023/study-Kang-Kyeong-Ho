@@ -1,2 +1,6 @@
 # study-Kang-Kyeong-Ho
-asfahfashasdhjdjjjjjjjjjjjjjjjjjjj
+
+- 일
+- 이
+- 삼
+  - [x] 사과
